@@ -33,5 +33,5 @@ function getRandomHexColor() {
   createBoxes(amount);
 });
 
-destroyButton.addEventListener('click', destroyBoxes);
+destroyButton.addEventListener ("click", destroyBoxes);
 
